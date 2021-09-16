@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheUdon
 - 👀 I’m interested in learning Python and other languages
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, Python, and how to use github itself
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email, donkim9996@gmail.com.
 
