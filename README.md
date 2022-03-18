@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheUdon
+- 👋 Hi, I’m Don Kim
 - 👀 I’m interested in learning Python and other languages
 - 🌱 I’m currently learning HTML, CSS Python, SQL, Java and how to use github itself
 - 💞️ I’m currently looking to collaborate on discord bots
